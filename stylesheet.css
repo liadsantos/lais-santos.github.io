@@ -140,3 +140,20 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+hr {
+  background-color: lightgrey;
+}
+
+.custom-table {
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px #c4b18d;
+}
+
+.round-links {
+  width: 10px;
+  height: 10px;
+
+  background-color: lightblue;
+  text-align: center;
+}
