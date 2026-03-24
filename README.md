@@ -1,1 +1,1 @@
-Template adapted from Jon Barron's public academic website: https://jonbarron.info/.
+Template adapted from [Jon Barron](https://jonbarron.info/)'s and [Siwei Zhang](https://sanweiliti.github.io)'s public academic websites.
