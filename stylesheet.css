@@ -165,11 +165,11 @@ hr {
   
   width: auto;            /* Usually better for text links like "project page" */
   padding: 4px 12px;      /* Gives breathing room around the text */
-  height: 30px;
+  height: 25px;
 
   background-color: #bdd6e6; /* Matching the light blue in your image */
   border-radius: 15px;     /* The "rounded" magic - use 15px or higher for pill shape */
   
   text-decoration: none;  /* Removes the link underline */
-  font-size: 14px;
+  font-size: 10px;
 }
