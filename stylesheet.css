@@ -142,18 +142,20 @@ span.highlight {
 }
 
 hr {
-  color: lightgrey;
+  border: 0;                          /* Remove the default browser border */
+  border-top: 1px solid lightgray;  /* Create a 1px solid light grey line */
+  margin: 10px 0;                     /* Optional: adjusts spacing above and below the line */
 }
 
 .custom-table {
   border-radius: 15px;
-  box-shadow: 0px 0px 20px #c4b18d;
+  box-shadow: 0px 0px 20px #677a5c;
 }
 
 .round-links {
   width: 30px;
   height: 30px;
-
+  border-radius: 10px;
   background-color: lightblue;
   text-align: center;
 }
