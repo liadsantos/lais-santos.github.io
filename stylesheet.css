@@ -142,7 +142,7 @@ span.highlight {
 }
 
 hr {
-  background-color: lightgrey;
+  color: lightgrey;
 }
 
 .custom-table {
@@ -151,8 +151,8 @@ hr {
 }
 
 .round-links {
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
 
   background-color: lightblue;
   text-align: center;
