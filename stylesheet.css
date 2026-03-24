@@ -153,9 +153,23 @@ hr {
 }
 
 .round-links {
-  width: 30px;
+  /* width: 30px;
   height: 30px;
   border-radius: 10px;
   background-color: lightblue;
-  text-align: center;
+  text-align: center; */
+
+  display: inline-flex;   /* Allows width/height and centers content easily */
+  align-items: center;    /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  
+  width: auto;            /* Usually better for text links like "project page" */
+  padding: 4px 12px;      /* Gives breathing room around the text */
+  height: 30px;
+
+  background-color: #bdd6e6; /* Matching the light blue in your image */
+  border-radius: 15px;     /* The "rounded" magic - use 15px or higher for pill shape */
+  
+  text-decoration: none;  /* Removes the link underline */
+  font-size: 14px;
 }
